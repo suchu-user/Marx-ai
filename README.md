@@ -1,1 +1,1 @@
-# Marx-ai
+# Marx.ai
